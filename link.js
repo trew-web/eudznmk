@@ -1,0 +1,1 @@
+const offerLink = "https://vk.sv/n9iwwb"
